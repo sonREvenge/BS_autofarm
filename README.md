@@ -1,4 +1,4 @@
-# REvengeBSIndustry
+# BS_autofarm
 
 Local Brawl Stars automation over ADB, with optional Discord commands.
 
