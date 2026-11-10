@@ -1,0 +1,14 @@
+serial = ""
+package = "com.supercell.brawlstars"
+brawler = "shelly"
+fps = 8
+provider = "auto"
+confidence = 0.55
+terrain_confidence = 0.6
+terrain_interval = 0.4
+stale_timeout = 5.0
+reconnect_attempts = 3
+play_again = false
+gadgets = true
+data_dir = "data"
+discord_owner = 0

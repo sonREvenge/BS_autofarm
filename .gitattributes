@@ -1,0 +1,2 @@
+* text=auto eol=lf
+src/revenge/assets/** -text whitespace=cr-at-eol

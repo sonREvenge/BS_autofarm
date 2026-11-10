@@ -1,0 +1,42 @@
+{
+  "sources": {
+    "models": "https://github.com/PylaAI/PylaAI/tree/9b13d0f21de06637baffdff9a5a67b8b0d26a9c2/models",
+    "templates": "https://github.com/PylaAI/PylaAI/tree/9b13d0f21de06637baffdff9a5a67b8b0d26a9c2/images",
+    "server": "https://github.com/Genymobile/scrcpy/releases/tag/v5.0.1",
+    "profiles": "https://github.com/PylaAI/PylaAI/blob/9b13d0f21de06637baffdff9a5a67b8b0d26a9c2/cfg/brawlers_info.json"
+  },
+  "sha256": {
+    "brawlers_info.json": "91e20b940c15e14219f4f7a20dd03b49669904f3fb73a53bf01b96ab161dceab",
+    "images/end_results/1st.png": "92ecdb59c6a47481ab2a81f7c5507d20c76da2ffaa9c802be1acba30676dd519",
+    "images/end_results/2nd.png": "b7472c7176be5739b3e95aefd2e6751ab4eeed3693d759adba3472be96e5ce20",
+    "images/end_results/3rd.png": "537663d21e40c904384ed9ec973f917f0e39e0443cca9ee7059bca29dc2b39fb",
+    "images/end_results/3rd_alt.png": "42dfb05aef5f6008fdc1f625ed165bbbdd69ebec4a7322eb347a31dae04a3348",
+    "images/end_results/4th.png": "bd5e18521672cc4480607bd8a5b9fb04e9afea866354fc313edc9cae66b80440",
+    "images/end_results/defeat.png": "89604675bb814fb435312fae658b6efe839af4b0596cb1340f78751c78265b39",
+    "images/end_results/draw.png": "25c3f9b102c6591070bc90fb0e3719a6c15479900c5399fa85dfb20b5a73cae7",
+    "images/end_results/victory.png": "a19f8b02f20a6a4111b00704a384eb1ea7e0196f8651fe033ac53944cee82a26",
+    "images/star_drop_types/angelic_star_drop.png": "3121ab8feff6a9f4eeda244aae3ed10e79ca7d1a4f91a0a3fe19ebe8f558ec62",
+    "images/star_drop_types/demonic_star_drop.png": "309ec286b98d0b4f3ec9874180913908dbdb6029f1087dc2a024eedb9b9f54b8",
+    "images/star_drop_types/star_drop.png": "b5f645206c6bca66cc3c0573133bbc2d75ee7227dcfb48d2eb97b41dcb389d0e",
+    "images/star_drop_types/starr_nova_star_drop.png": "7868d61737c8d3330a23a63e2bb774b4db96684f3b1a33bc871c85b120ed8be9",
+    "images/states/brawl_pass_house.png": "eecfa4e2745c488bbc7acff2cf08fdea10f7f26ca4d11a20a1d7cf404eb50f06",
+    "images/states/brawler_menu_heart.png": "5e18f45b9d49da1af6cda2c004c31cbd8ff14f55072c4f9f0923d2c91cdd8713",
+    "images/states/brawler_menu_search.png": "2f41ebbf4414967f7057c197883f208b2da72540b6ab9630018e5f345065305e",
+    "images/states/close_popup.png": "d6c6cff0844eeef6dd356e3a59caf8fef3ae74aad1464e100857a06e95d2e6b3",
+    "images/states/daily_wins.png": "abed54f47360a55d04df8576dc1574d764752fa713601f488bfe7d01a3ef20be",
+    "images/states/exit_match_making.png": "e270d8d673ef7f15319bd90dda26fce5390bbcdeca75c7b34970de0850d054bf",
+    "images/states/exit_outline.png": "25c253797f4e22f94e6fd3ebfed38a237daf76ca63fac9b8bc62bd46b6faa36b",
+    "images/states/friend_menu_icon.png": "37ff5123e9b669987b62779ffd85c36e4dbf5e4cf0b924caacf34b54af8aea1a",
+    "images/states/go_back_arrow.png": "74168601d7c74bf012d7c1b7afaa391299d719d08b8c0c1dd3755ba36d80c90a",
+    "images/states/loading_logo.png": "e25cf82e944975d1ba4e0f0e35c90ea70be5ca69470126224577ad4e789fc91e",
+    "images/states/lobby_menu.png": "ca64947aeaf0442927d5a7e22148f07cd9191b86b019f5fa6f3c587bd346246e",
+    "images/states/powerpoint.png": "311afdc0d96e3e3a0d9851c8de7676137429d3112b5b07196cd90ddae8f7d2d4",
+    "images/states/prestige_continue.png": "6f11b874f623c59fa638d922967b131d6ecf6571f8800f78cd942633bb63ac4d",
+    "images/states/trophies_screen.png": "59118a740fa0d2dbcc69a53ee0b6196ba2b6d5419a7fd94c4ee6c8e32fe65823",
+    "models/mainInGameModel.json": "e8cebbeaf0aab08bb5c2ceff59e3116157bf94c7acc7d45fbcb22bda8a186873",
+    "models/mainInGameModel.onnx": "10932b7d25a54754f376435cea08ce047271a940a6860afd607a072833e73829",
+    "models/tileDetector.json": "98b09f75989f437da1f659cace0c07bf5d1f5e7a25e1862287c126cb3543a863",
+    "models/tileDetector.onnx": "4029b34318b056e577848683f546cddf5b7ab73c3f4a025caa56c722ca837f8a",
+    "server/scrcpy-server-v5.0.1": "764eb6f79811d5211fe9df341120882ba9994c7a61b897d7bf3fb662e53bc536"
+  }
+}

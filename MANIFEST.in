@@ -1,0 +1,5 @@
+include config.example.toml THIRD_PARTY.md
+recursive-include licenses *.txt
+prune docs
+prune .local
+exclude config.toml
